@@ -1,1 +1,1 @@
-web: gunicorn enersinc-backend.wsgi --log-file -
+web gunicorn core.wsgi --log-file -
