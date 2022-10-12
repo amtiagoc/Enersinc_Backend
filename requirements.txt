@@ -8,4 +8,5 @@ sqlparse==0.4.2
 whitenoise==6.2.0  
 asgiref==3.5.0
 dj-database-url==1.0.0
+django-cors-headers==3.13.0
 
